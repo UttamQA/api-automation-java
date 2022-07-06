@@ -1,0 +1,7 @@
+package microservice_config;
+
+public class RestapiHeaders {
+	
+	public Header contentTypeJson = new Header("Content-Type","application/json");
+
+}

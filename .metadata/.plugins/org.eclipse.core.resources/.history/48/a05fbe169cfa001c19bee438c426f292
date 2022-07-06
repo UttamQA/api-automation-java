@@ -1,0 +1,2 @@
+library_service_host="http://216.10.245.166"
+library_addbook_api = "/Library/Addbook.php"

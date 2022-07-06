@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;rest_api_automation_framework&apos;&#x0D;&#x0A;- Original project: &apos;rest_api_automation_framework&apos;&#x0D;&#x0A;- Original element: &apos;rest_api_automation_framework/src/test/java/features.library_microservice&apos;" description="Delete element" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;features.library_microservice" element2="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;features" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1655010802646" subPackages="false" version="1.0"/>
+</session>
